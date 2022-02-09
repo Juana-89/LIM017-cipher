@@ -4,7 +4,7 @@
 
 * [1. Descarga](#1-descarga)
 * [2. Funcionalidad](#2-funcionalidad)
-* <a href="https://github.com/Juana-89/LIM017-cipher/blob/main/README.md#3-decisiones-del-dise%C3%B1o"> [3. Decisiones del diseño]</a>
+* <a href="https://github.com/Juana-89/LIM017-cipher/blob/main/README.md#3-decisiones-del-dise%C3%B1o"> 3. Decisiones del diseño</a>
 
 ***
 <div align = "justify">
