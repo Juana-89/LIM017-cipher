@@ -32,7 +32,7 @@ A continuación te invito a ver las imágenes del prototipo inicial que había p
 [//]: # "![Optional Text](https://i.ibb.co/kX3dVgV/image2.png)"
 
 </br>
-<center><img src="https://i.ibb.co/6mf4S6g/image1.png" width="580px" height="350px"></center><br>
+<p align=center><img src="https://i.ibb.co/6mf4S6g/image1.png" width="580px" height="350px"></center><br>
 <center><img src="https://i.ibb.co/kX3dVgV/image2.png" width="580px" height="350px"></center>
 
 </div>
