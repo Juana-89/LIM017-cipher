@@ -4,9 +4,7 @@
 
 * [1. Descarga](#1-descarga)
 * [2. Funcionalidad](#2-funcionalidad)
-* [3. Decisiones del diseño](#3-decisiones-diseño)
-* [3. Decisiones del diseño](#3-decisiones-diseño)
-
+* [3. Decisiones del diseño](#3-decisiones-dise%C3%B1o) 
 
 ***
 <div align = "justify">
