@@ -5,7 +5,7 @@
 * [1. Descarga](#1-descarga)
 * [2. Funcionalidad](#2-funcionalidad)
 * [3. Decisiones del diseño](#3-decisiones-diseño)
-* [4. Consideraciones generales](#4-consideraciones-generales)
+* [3. Decisiones del diseño](#3-decisiones-diseño)
 
 
 ***
