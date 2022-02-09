@@ -17,7 +17,7 @@ Asimismo, hay un botón llamado "Limpiar" que te permitirá borrar el texto y n�
 
 ## 2. Funcionalidad
 
-Este proyecto puede funcionar para diversas cosas, tanto para juego como para mandar algún mensaje secreto solicitando alguna petición que tu creas conveniente, por lo que no se limita a algún tema en específico.
+Este proyecto puede funcionar para diversas cosas, tanto para juego como para mandar algún mensaje secreto solicitando alguna petición que tu creas conveniente, por lo que no se limita a algún tema en específico. La página puede ayudarte a codificar o cambiar el orden de las letras según el número de desplazamiento que le des, como también te ayudará a decodificar o a descifrar un mensaje oculto siempre y cuando sepas el número que se utilizó para cifrarlo. Si te equivocas en tu mensaje, puedes borrar el contenido con el botón Limpiar y también te permitirá solo el ingreso de letras, si la tecla Mayus está desactiva, automáticamente la página convertirá a todo el texto ingresado en el input text del Mensaje en mayúscula para que así el código lo reconozca.
 
 
 ## 3. Decisiones del diseño
