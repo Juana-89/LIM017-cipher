@@ -11,7 +11,7 @@
 
 ## 1. Descarga
 
-Solo basta con ingresar al link de "index.html" para que se ejecute la aplicación, donde te pedirá tu nombre para personalizarla, al dar click en "Aceptar" te muestra el cuerpo de la página y habrá un formulario para que ingreses ya sea la palabra o la frase que quieras transformarla en un nuevo texto, eliges el número de desplazamiento que deseas que se muevan las letras, le das click en el botón "Codificar" y por último, estará la textbox donde te mostrará el resultado de la codificación para que puedas usarla en el momento en que deseas. Sucede lo mismo cuando quieres saber exactamente qué dice la frase encriptada, pero esta vez se tendrá que usar el botón "Descodificar".
+Solo basta con ingresar al link de "index.html" para que se ejecute la aplicación, te muestra el cuerpo de la página y habrá un formulario para que ingreses ya sea la palabra o la frase que quieras transformarla en un nuevo texto, eliges el número de desplazamiento que deseas que se muevan las letras, le das click en el botón "Codificar" y por último, estará la textbox donde te mostrará el resultado de la codificación para que puedas usarla en el momento en que deseas. Sucede lo mismo cuando quieres saber exactamente qué dice la frase encriptada, pero esta vez se tendrá que usar el botón "Descodificar".
 Asimismo, hay un botón llamado "Limpiar" que te permitirá borrar el texto y número ingresado si te equivocaste al momento de digitarlo.
 
 
@@ -30,6 +30,6 @@ A continuación te invito a ver las imágenes del prototipo inicial que había p
 [//]: # "![Optional Text](https://i.ibb.co/kX3dVgV/image2.png)"
 
 </br>
-<p align=center><img src="https://i.ibb.co/6mf4S6g/image1.png" width="580px" height="350px"></center><br>
+
 <p align=center><img src="https://i.ibb.co/kX3dVgV/image2.png" width="580px" height="350px"></center><br>
 </div>
