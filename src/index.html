@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Cifrado César</title>
+    <link rel="icon" href="carita.ico">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&family=Yellowtail&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Lobster&family=Yanone+Kaffeesatz:wght@500&family=Yellowtail&display=swap" rel="stylesheet">
+   </head>
+ 
+
+  <body>
+    <header id="cabecera">
+      <img src="img/logo.png" alt="Emperador César">
+        <nav>
+          <ul>
+            <li><a href="">Inicio</a></li>
+            <li><a href="">Quiénes somos</a></li>
+            <li><a href="../README.md">Readme</a></li>
+            <li><a href="">Redes sociales:</a></li>
+            <li><img id="rrss" src="img/fb.png" title="Facebook"/><img id="rrss1" src="img/tw.png" title="Twitter"/><img id="rrss2" src="img/ig.png" title="Instagram"/></li>
+        </ul>
+      </nav>
+    </header>
+  
+    <div id= "divAgenda" align ="center">
+    <form id="formquestion">
+      <h3><center>¡Bienvenidos!</center> Esta aplicación de '<u>'Cifrado César'</u>' te permitirá escribir un mensaje y de acuerdo a la elección de posición que elijas, será sustituido por otra letra del abecedario y así mandar tu mensaje oculto para que nadie más se entere de lo que tratas de decir.</h3>
+    
+  <br>
+   <h4> Ingresa la palabra: <input type= "text" id="caja" placeholder=""> </h4> <br>
+    <h4 id="posi"> <br>N° de desplazamiento:<input type= "number" value="0" min="1" max="100" id="caja1" placeholder="">
+    <input id="boton" type="reset" value="Limpiar" class="cleanbox" name="button"><br>
+    </h4>
+    <h4 id="posi1"> <br> Resultado: <input type= "text" id="caja2" readonly placeholder=""><br></h4>
+    <br><input id="boton1" type="button" value="Codificar" name="button">
+    <input id="boton2" type="button" value="Descodificar" name="button"><br>
+  
+    </form>
+  </div>
+ 
+    <footer>
+    <ul id="pagefoot">
+        <li><a href="" class="pie">  © Proyecto de Juana L.</a></li>
+        <li><a href=""  class="pie">Términos y condiciones</a></li>
+        <li><a href=""  class="pie">Política de privacidad</a></li>
+        <li><a href=""  class="pie">  Condiciones de contratación </a></li><br>
+      </ul>
+
+    </footer>
+   <script src="index.js" type="module"> </script>
+   
+  </body>
+ 
+  
+
+
+</html>
