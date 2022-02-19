@@ -52,6 +52,7 @@ h4 {
       text-shadow: 0.07em 0.09em #4682B4;
       font-weight: bold;
       margin-top: -9px;
+      padding-left: 50px;
       }
 
 a{
@@ -70,7 +71,7 @@ a{
     }
 
 input {
-    width:30em;
+    width:27em;
     height:1.5em;
     margin-left: 29px;
     margin-right:20px;
@@ -116,8 +117,8 @@ input {
         width: auto; 
         color: #fff;
         position: relative;
-        padding: 10px 20px ;
-        padding-bottom: 35px;
+        padding: 10px 20px 35px ;
+        /*padding-bottom: 35px;*/
         border-radius: 10px;
         box-shadow: inset 0px 1px 0px	#20B2AA, 0px 5px 0px 0px #008B8B	, 0px 10px 5px #999;
           }
@@ -136,7 +137,7 @@ input {
 
   #caja2 {
     margin-left: 7em;
-    width:30em;
+    width:28em;
     height:9em;
     border-radius: 28px;
   }
