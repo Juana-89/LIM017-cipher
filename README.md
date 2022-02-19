@@ -22,7 +22,7 @@ Este proyecto puede funcionar para diversas cosas, tanto para juego como para ma
 
 ## 3. Decisiones del diseño
 
-Me pareció práctico poner el formulario donde estarán los inputbox y los buttoms dentro de una sola página. Como verán, es una página sencilla sin ninguna temática por lo que está disponible para cualquier usuario que lo quiera utilizar. Los colores usados son los que me gustan, por eso los utilicé. A continuación muestro el boceto realizado en Figma ya que el primer diseño utilizado se encuentra en mi cuaderno y que luego estuve insertando otros elementos para que se vea mejor según desde mi perspectiva.
+Me pareció práctico poner el formulario donde estarán los inputbox y los buttoms dentro de una sola página. Como verán, es una página sencilla sin ninguna temática por lo que está disponible para cualquier usuario que lo quiera utilizar. Los colores usados son los que me gustan, por eso los utilicé. A continuación muestro el boceto realizado en Figma ya que el primer diseño utilizado npm encuentra en mi cuaderno y que luego estuve insertando otros elementos para que se vea mejor según desde mi perspectiva.
 
 [//]: # " ![Optional Text](https://i.ibb.co/6mf4S6g/image1.png"
 [//]: # "![Optional Text](https://i.ibb.co/kX3dVgV/image2.png)"
