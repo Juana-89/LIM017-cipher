@@ -53,11 +53,5 @@ import cipher from './cipher.js';
 }
 CleanForm();*/
 
-
-
-
-
-
 cipher.encode();
 cipher.decode();
-console.log(cipher);

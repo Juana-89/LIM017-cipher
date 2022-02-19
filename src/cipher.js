@@ -1,3 +1,4 @@
+
    const cipher = {
       encode: (offset, string) => {
       let result = "";
