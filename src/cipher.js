@@ -25,7 +25,7 @@
             result += String.fromCharCode(((codeAscii + 97 - offset) % 26) + 97);
      } */
      }
-     console.log(result);
+   //  console.log(result);
             return result;
     }
 };

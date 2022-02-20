@@ -55,4 +55,4 @@ CleanForm();*/
 
 cipher.encode();
 cipher.decode();
-console.log(cipher);
+//console.log(cipher);

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1645237327588" clover="3.2.0">
-  <project timestamp="1645237327588" name="All files">
-    <metrics statements="13" coveredstatements="13" conditionals="8" coveredconditionals="6" methods="2" coveredmethods="2" elements="23" coveredelements="21" complexity="0" loc="13" ncloc="13" packages="1" files="1" classes="1"/>
+<coverage generated="1645396830289" clover="3.2.0">
+  <project timestamp="1645396830289" name="All files">
+    <metrics statements="13" coveredstatements="7" conditionals="8" coveredconditionals="0" methods="2" coveredmethods="2" elements="23" coveredelements="9" complexity="0" loc="13" ncloc="13" packages="1" files="1" classes="1"/>
     <file name="cipher.js" path="C:\Users\USER\Desktop\LIM017-cipher\src\cipher.js">
-      <metrics statements="13" coveredstatements="13" conditionals="8" coveredconditionals="6" methods="2" coveredmethods="2"/>
-      <line num="1" count="1" type="stmt"/>
-      <line num="3" count="4" type="stmt"/>
+      <metrics statements="13" coveredstatements="7" conditionals="8" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="2" count="1" type="stmt"/>
       <line num="4" count="4" type="stmt"/>
-      <line num="5" count="26" type="stmt"/>
-      <line num="6" count="26" type="cond" truecount="3" falsecount="1"/>
-      <line num="7" count="26" type="stmt"/>
-      <line num="11" count="2" type="stmt"/>
-      <line num="15" count="4" type="stmt"/>
-      <line num="16" count="4" type="stmt"/>
-      <line num="17" count="26" type="stmt"/>
-      <line num="18" count="26" type="cond" truecount="3" falsecount="1"/>
-      <line num="19" count="26" type="stmt"/>
-      <line num="22" count="2" type="stmt"/>
+      <line num="5" count="4" type="stmt"/>
+      <line num="6" count="0" type="stmt"/>
+      <line num="7" count="0" type="cond" truecount="0" falsecount="4"/>
+      <line num="8" count="0" type="stmt"/>
+      <line num="15" count="2" type="stmt"/>
+      <line num="19" count="4" type="stmt"/>
+      <line num="20" count="4" type="stmt"/>
+      <line num="21" count="0" type="stmt"/>
+      <line num="22" count="0" type="cond" truecount="0" falsecount="4"/>
+      <line num="23" count="0" type="stmt"/>
+      <line num="29" count="2" type="stmt"/>
     </file>
   </project>
 </coverage>
