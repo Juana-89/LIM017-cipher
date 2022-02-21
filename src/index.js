@@ -1,8 +1,8 @@
 import cipher from './cipher.js';
-    var n1=prompt("Bienvenida a la página del cifrado César", "Pon tu nombre aquí",);
+/*  var n1=prompt("Bienvenida a la página del cifrado César", "Pon tu nombre aquí",);
      console.log("<center>"+ "Bienvenida a la página del cifrado César" +" " + n1 + "!" + "<br><br>");
      console.log("Esta aplicación de '<u>'Cifrado César'</u>' te permitirá escribir un mensaje y de acuerdo a la elección de posición que elijas, será sustituido por otra letra del abecedario y así mandar tu mensaje codificado para que nadie más se entere de lo que tratas de decir ;)"+ "");
-    console.log(n1);
+    console.log(n1);*/
 
      window.addEventListener("load", loadPage, true);
 
