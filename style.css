@@ -95,20 +95,7 @@ input {
       width:10em;
   }
 
-  div {
-    margin:30px 100px 10px 100px;
-    padding: 47px 100px 30px 100px;
-    background-image: url('../img/agenda.png');
-    width: 50em;
-    background-position: center;
-    /*background-color: darkviolet;*/
-    height: auto;
-    border-radius: 40px;
-    border-inline: 8em;
-    border-color:#22233c ;
-
-  }
-  #boton, #boton1, #boton2{
+   #boton, #boton1, #boton2{
         background-color: #20B2AA;
         font-family: 'Convection', sans-serif;
         font-weight: bold;
@@ -259,7 +246,7 @@ input {
   div {
     margin:30px 100px 10px 100px;
     padding: 47px 100px 30px 100px;
-    background-image: url('../img/agenda.png');
+    background-image: url('agenda.png');
     width: 50em;
     background-position: center;
     /*background-color: darkviolet;*/
