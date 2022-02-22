@@ -1,25 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1645498762619" clover="3.2.0">
-  <project timestamp="1645498762619" name="All files">
-    <metrics statements="17" coveredstatements="17" conditionals="16" coveredconditionals="14" methods="2" coveredmethods="2" elements="35" coveredelements="33" complexity="0" loc="17" ncloc="17" packages="1" files="1" classes="1"/>
+<coverage generated="1645541534479" clover="3.2.0">
+  <project timestamp="1645541534479" name="All files">
+    <metrics statements="23" coveredstatements="23" conditionals="16" coveredconditionals="14" methods="2" coveredmethods="2" elements="41" coveredelements="39" complexity="0" loc="23" ncloc="23" packages="1" files="1" classes="1"/>
     <file name="cipher.js" path="C:\Users\USER\Desktop\LIM017-cipher\src\cipher.js">
-      <metrics statements="17" coveredstatements="17" conditionals="16" coveredconditionals="14" methods="2" coveredmethods="2"/>
+      <metrics statements="23" coveredstatements="23" conditionals="16" coveredconditionals="14" methods="2" coveredmethods="2"/>
       <line num="2" count="1" type="stmt"/>
       <line num="4" count="5" type="stmt"/>
       <line num="6" count="5" type="cond" truecount="4" falsecount="0"/>
       <line num="7" count="4" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
       <line num="12" count="1" type="stmt"/>
       <line num="13" count="26" type="stmt"/>
       <line num="14" count="26" type="cond" truecount="3" falsecount="1"/>
       <line num="15" count="26" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
       <line num="23" count="1" type="stmt"/>
       <line num="27" count="5" type="stmt"/>
       <line num="29" count="5" type="cond" truecount="4" falsecount="0"/>
       <line num="30" count="4" type="stmt"/>
+      <line num="32" count="1" type="stmt"/>
+      <line num="33" count="1" type="stmt"/>
       <line num="40" count="1" type="stmt"/>
       <line num="41" count="26" type="stmt"/>
       <line num="42" count="26" type="cond" truecount="3" falsecount="1"/>
       <line num="43" count="26" type="stmt"/>
+      <line num="50" count="1" type="stmt"/>
       <line num="51" count="1" type="stmt"/>
     </file>
   </project>
