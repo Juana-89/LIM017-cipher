@@ -29,7 +29,6 @@ import cipher from './cipher.js';
      document.getElementById("caja").addEventListener("blur", 
      function(){
          let word = this.value;
-      
           if (word ===""){
                alert ("Escribe alguna palabra o frase por favor")
           this.autofocus
